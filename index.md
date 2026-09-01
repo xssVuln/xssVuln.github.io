@@ -1,6 +1,7 @@
 # Welcome to My Portfolio Hello! My name is xssVuln.
 ## Projects
 - Serendipity Booksellers: a point-of-sale (POS) software
+
 ## About Me
 Click here to learn more → [About Me](about.md)
 
